@@ -27,7 +27,7 @@ let itens = [
 {
     image:"SenhorDosAneisPaint.jpeg",
     name: 'Senhor dos Aneis',
-    price: 'R$1000,00 reais',
+    price: 'R$1.000,00 reais',
     type: 'frames',
 },
 {
@@ -57,7 +57,7 @@ let itens = [
 {
     image:"X-man.jpeg",
     name: 'X-man',
-    price: 'R$1056,00 reais',
+    price: 'R$1.056,00 reais',
     type: 'frames',
 },
 {
@@ -86,14 +86,14 @@ let itens = [
 },
 {
     image:"actionSenhorGandorf.jpeg",
-    name: 'Gandorf',
-    price: 'R$1700,00 reais',
+    name: 'Gandalf',
+    price: 'R$1.700,00 reais',
     type: 'figure',
 },
 {
     image:"SenhorDosAneisArqueiro2.webp",
     name: 'Elfo Arqueiro',
-    price: 'R$1000,00 reais',
+    price: 'R$1.000,00 reais',
     type: 'figure',
 },
 ]
