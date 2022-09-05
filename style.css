@@ -33,6 +33,19 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul,li,
  display: flex;  
 }
 
+.menu-nav .button-products{
+  background-color: #0a98fe;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 4px 23px;
+  cursor: pointer;
+}
+
+.menu-nav .button-products a{
+  font-size: 20px;
+  color: #ffffff; 
+}
+
 .menu-nav li{
   background-color: hsla(205, 99%, 52%, 0.099);
   border-radius: 4px;
